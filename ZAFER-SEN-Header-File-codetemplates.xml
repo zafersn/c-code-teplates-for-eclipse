@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><templates><template autoinsert="false" context="org.eclipse.cdt.core.cHeader.contenttype_context" deleted="false" description="Header Template for STG800" enabled="true" name="STG800-H-Temp">/**&#13;
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><templates><template autoinsert="false" context="org.eclipse.cdt.core.cHeader.contenttype_context" deleted="false" description="Header Template for STG800" enabled="true" name="C-Header-Temp-Z">/**&#13;
   ******************************************************************************&#13;
   * @file    ${file_name}&#13;
   * @fileLoc ${file_loc}&#13;
