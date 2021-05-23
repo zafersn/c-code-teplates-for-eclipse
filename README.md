@@ -1,4 +1,4 @@
-# C Code Template for Eclipse 
+# C Code Templates for Eclipse 
 In order to use general purpose c code templates for eclipse
 
 ## HOW TO IMPORT TEMPLATE FILES
