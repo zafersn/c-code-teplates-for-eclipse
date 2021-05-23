@@ -1,5 +1,5 @@
 # c-code-teplate-for-eclipse
-In order to use general purpose c code template for eclipse
+In order to use general purpose c code templates for eclipse
 
 ## HOW TO IMPORT TEMPLATE FILES
 
