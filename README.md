@@ -7,3 +7,4 @@ In order to use general purpose c code templates for eclipse
     * "C Source File" or 
     * "C Header File"
  * Click to import button and find ".....".xml file
+ * And Do NOT forget change the template when the crate new .c or .h files
